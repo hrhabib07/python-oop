@@ -1,0 +1,7 @@
+money=input("Give me some money ")
+more_money=input("Give me more money ")
+money_int=int(money)
+more_money_int=int(more_money)
+print(f"I got {money} taka")
+print(f"and then I got {more_money} taka")
+print(f"The total money I got is {money_int+more_money_int} taka")
