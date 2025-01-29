@@ -11,6 +11,11 @@ print(name)
 print(type(age))
 print(type(favorite_number))
 print(type(is_single))
+
+print("kodom ali "+'kacha badam')
+
+text = f"Name: {name}, age: {age}, student at: {varsity}, is_single:{is_single}"
+print(text)
  
 """ 
 to write multiline comment 
